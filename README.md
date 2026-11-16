@@ -15,3 +15,6 @@ Open this folder in Visual Studio Code.
 ## Future Improvement
 
 Add screenshots and installation instructions in a future update.
+## Contribution Practice
+
+This change was submitted through a Pull Request.
